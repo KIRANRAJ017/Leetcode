@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0009-palindrome-number) |
+| [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KIRANRAJ017/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/KIRANRAJ017/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
