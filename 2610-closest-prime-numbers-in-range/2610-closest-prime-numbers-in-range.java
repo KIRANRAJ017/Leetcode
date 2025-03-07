@@ -3,6 +3,7 @@ class Solution {
         int min=Integer.MAX_VALUE;
         List<Integer> l = new ArrayList<>();
         for(int i=left;i<=right;i++){
+            if(i%2==0 && i>2) continue;
             if(prime(i)) l.add(i);
         }
         int num1=-1, num2=-1;
