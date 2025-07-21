@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KIRANRAJ017/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KIRANRAJ017/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/KIRANRAJ017/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1524-string-matching-in-an-array) |
