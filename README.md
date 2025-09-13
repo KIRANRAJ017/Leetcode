@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3455-minimum-length-of-string-after-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KIRANRAJ017/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/KIRANRAJ017/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KIRANRAJ017/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/KIRANRAJ017/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KIRANRAJ017/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/KIRANRAJ017/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
