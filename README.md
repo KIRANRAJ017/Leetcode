@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KIRANRAJ017/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KIRANRAJ017/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KIRANRAJ017/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/KIRANRAJ017/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/KIRANRAJ017/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KIRANRAJ017/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KIRANRAJ017/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/0002-add-two-numbers) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
