@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KIRANRAJ017/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/KIRANRAJ017/Leetcode/tree/master/1500-count-largest-group) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/KIRANRAJ017/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2448-count-number-of-bad-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/KIRANRAJ017/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
