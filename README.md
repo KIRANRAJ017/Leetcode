@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/KIRANRAJ017/Leetcode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1063-best-sightseeing-pair](https://github.com/KIRANRAJ017/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/KIRANRAJ017/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/KIRANRAJ017/Leetcode/tree/master/0041-first-missing-positive) |
+| [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KIRANRAJ017/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KIRANRAJ017/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/KIRANRAJ017/Leetcode/tree/master/1500-count-largest-group) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KIRANRAJ017/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/KIRANRAJ017/Leetcode/tree/master/1500-count-largest-group) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KIRANRAJ017/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/KIRANRAJ017/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
