@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/KIRANRAJ017/Leetcode/tree/master/1656-count-good-triplets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KIRANRAJ017/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KIRANRAJ017/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1975-maximum-matrix-sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/KIRANRAJ017/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KIRANRAJ017/Leetcode/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/KIRANRAJ017/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1975-maximum-matrix-sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KIRANRAJ017/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1975-maximum-matrix-sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/KIRANRAJ017/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/KIRANRAJ017/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
