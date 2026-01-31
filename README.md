@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/KIRANRAJ017/Leetcode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KIRANRAJ017/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1063-best-sightseeing-pair](https://github.com/KIRANRAJ017/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KIRANRAJ017/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KIRANRAJ017/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/KIRANRAJ017/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
