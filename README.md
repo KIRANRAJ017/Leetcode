@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/KIRANRAJ017/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/KIRANRAJ017/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KIRANRAJ017/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/KIRANRAJ017/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KIRANRAJ017/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/KIRANRAJ017/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/KIRANRAJ017/Leetcode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
@@ -353,4 +355,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/KIRANRAJ017/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
