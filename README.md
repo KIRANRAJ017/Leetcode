@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/KIRANRAJ017/Leetcode/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KIRANRAJ017/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3379-transformed-array) |
 | [3429-special-array-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3429-special-array-i) |
 | [3483-alternating-groups-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KIRANRAJ017/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KIRANRAJ017/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3379-transformed-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
