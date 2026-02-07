@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/KIRANRAJ017/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/KIRANRAJ017/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KIRANRAJ017/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/KIRANRAJ017/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/KIRANRAJ017/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/KIRANRAJ017/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/KIRANRAJ017/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Prefix Sum
 |  |
 | ------- |
