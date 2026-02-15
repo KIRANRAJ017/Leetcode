@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/KIRANRAJ017/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1390-four-divisors](https://github.com/KIRANRAJ017/Leetcode/tree/master/1390-four-divisors) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KIRANRAJ017/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0067-add-binary](https://github.com/KIRANRAJ017/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KIRANRAJ017/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KIRANRAJ017/Leetcode/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/KIRANRAJ017/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/KIRANRAJ017/Leetcode/tree/master/0067-add-binary) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/KIRANRAJ017/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
