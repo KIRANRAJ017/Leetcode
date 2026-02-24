@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KIRANRAJ017/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KIRANRAJ017/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KIRANRAJ017/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
