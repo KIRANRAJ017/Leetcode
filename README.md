@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/KIRANRAJ017/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KIRANRAJ017/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1975-maximum-matrix-sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KIRANRAJ017/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/KIRANRAJ017/Leetcode/tree/master/2048-build-array-from-permutation) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/KIRANRAJ017/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
+| [1980-find-unique-binary-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KIRANRAJ017/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2448-count-number-of-bad-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1632-number-of-good-ways-to-split-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1632-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/KIRANRAJ017/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/KIRANRAJ017/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1980-find-unique-binary-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KIRANRAJ017/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
