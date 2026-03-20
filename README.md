@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/KIRANRAJ017/Leetcode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0485-max-consecutive-ones](https://github.com/KIRANRAJ017/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KIRANRAJ017/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
