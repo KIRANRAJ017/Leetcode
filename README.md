@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/KIRANRAJ017/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3637-trionic-array-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/KIRANRAJ017/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3379-transformed-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/3379-transformed-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Greedy
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/KIRANRAJ017/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search Tree
 |  |
 | ------- |
