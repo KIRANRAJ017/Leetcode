@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KIRANRAJ017/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/KIRANRAJ017/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/KIRANRAJ017/Leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/KIRANRAJ017/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/KIRANRAJ017/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/KIRANRAJ017/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/KIRANRAJ017/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/KIRANRAJ017/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/KIRANRAJ017/Leetcode/tree/master/0048-rotate-image) |
 | [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KIRANRAJ017/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
