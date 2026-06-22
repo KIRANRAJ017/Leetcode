@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/KIRANRAJ017/Leetcode/tree/master/0041-first-missing-positive) |
 | [0840-magic-squares-in-grid](https://github.com/KIRANRAJ017/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/KIRANRAJ017/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KIRANRAJ017/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/KIRANRAJ017/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KIRANRAJ017/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/KIRANRAJ017/Leetcode/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/KIRANRAJ017/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0657-robot-return-to-origin](https://github.com/KIRANRAJ017/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1189-maximum-number-of-balloons](https://github.com/KIRANRAJ017/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/KIRANRAJ017/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/KIRANRAJ017/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/KIRANRAJ017/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/KIRANRAJ017/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
