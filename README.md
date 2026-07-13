@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/KIRANRAJ017/Leetcode/tree/master/1291-sequential-digits) |
 | [1656-count-good-triplets](https://github.com/KIRANRAJ017/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/KIRANRAJ017/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
