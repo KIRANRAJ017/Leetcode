@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/KIRANRAJ017/Leetcode/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/KIRANRAJ017/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/KIRANRAJ017/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KIRANRAJ017/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1477-product-of-the-last-k-numbers](https://github.com/KIRANRAJ017/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/KIRANRAJ017/Leetcode/tree/master/0018-4sum) |
 | [1200-minimum-absolute-difference](https://github.com/KIRANRAJ017/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/KIRANRAJ017/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/KIRANRAJ017/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KIRANRAJ017/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/KIRANRAJ017/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/KIRANRAJ017/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
