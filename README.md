@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/KIRANRAJ017/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/KIRANRAJ017/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/KIRANRAJ017/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/KIRANRAJ017/Leetcode/tree/master/3321-type-of-triangle) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
@@ -473,4 +475,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/KIRANRAJ017/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
