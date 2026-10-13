@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/KIRANRAJ017/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KIRANRAJ017/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/KIRANRAJ017/Leetcode/tree/master/3321-type-of-triangle) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KIRANRAJ017/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/KIRANRAJ017/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/KIRANRAJ017/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
