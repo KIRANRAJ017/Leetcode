@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/KIRANRAJ017/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/KIRANRAJ017/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/KIRANRAJ017/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/KIRANRAJ017/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/KIRANRAJ017/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KIRANRAJ017/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KIRANRAJ017/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/KIRANRAJ017/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KIRANRAJ017/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
