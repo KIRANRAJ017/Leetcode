@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/KIRANRAJ017/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/KIRANRAJ017/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/KIRANRAJ017/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/KIRANRAJ017/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/KIRANRAJ017/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KIRANRAJ017/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/KIRANRAJ017/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/KIRANRAJ017/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/KIRANRAJ017/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
